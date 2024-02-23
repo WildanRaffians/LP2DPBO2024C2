@@ -10,7 +10,7 @@ Shirt: color, sleeve_type<br>
 
 
 <h3>Desain Program</h3>
-![image](https://github.com/WildanRaffians/LP2DPBO2024C2/assets/134181656/692408aa-0152-4d4c-9d5f-24388be97e54)
+(https://github.com/WildanRaffians/LP2DPBO2024C2/assets/134181656/692408aa-0152-4d4c-9d5f-24388be97e54)
 
 Untuk CPP program terdiri dari 2 file, 1 untuk file class dan 1 untuk file main. File class berupa class Dpr yang berisi data / atribut yang dimiliki anggota DPR, yaitu Id, nama, bidang dan partai. Pada class ini semua atribut dibuat private agar tidak dapat diakses dari luar class. Pada class Dpr juga terdapat method setter dan getter untuk setiap atribut. Semua method tersebut dibuat public agar dapat diakses dari luar class.
 
