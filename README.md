@@ -4,9 +4,9 @@ Saya Wildan Hafizh Raffianshar NIM [2202301] mengerjakan soal Latihan Praktikum-
 
 <h3>Deskripsi</h3>
 Program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas - kelas berikut:<br>
-Product: idProduct, name, brand, price<br>
-Clothing: size, material, gender<br>
-Shirt: color, sleeve_type<br>
+- Product: idProduct, name, brand, price<br>
+- Clothing: size, material, gender<br>
+- Shirt: color, sleeve_type<br>
 
 
 <h3>Desain Program</h3>
