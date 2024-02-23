@@ -3,10 +3,10 @@
 Saya Wildan Hafizh Raffianshar NIM [2202301] mengerjakan soal Latihan Praktikum-2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 <h3>Deskripsi</h3>
-program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas - kelas tersebut:
-Product: idProduct, name, brand, price
-Clothing: size, material, gender
-Shirt: color, sleeve_type
+Program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas - kelas beikut:<br>
+Product: idProduct, name, brand, price<br>
+Clothing: size, material, gender<br>
+Shirt: color, sleeve_type<br>
 
 
 <h3>Desain Program</h3>
